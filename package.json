@@ -1,0 +1,19 @@
+{
+  "name": "project0111-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript, Node.js ansd Inquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fayyaz Alam",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
